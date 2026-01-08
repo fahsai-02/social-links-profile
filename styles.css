@@ -71,7 +71,7 @@ ul {
     gap: 16px;
 }
 
-.quote p {
+.profile-description p {
     font-weight: 400;
     margin: 24px 0px;
     color: var(--white);
